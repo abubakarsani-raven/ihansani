@@ -26,6 +26,9 @@ ios/.symlinks/
 # VS Code related
 .vscode/
 
+
+lib/firebase_options.dart
+
 # macOS related
 macos/Flutter/Flutter.podspec
 macos/.symlinks/
